@@ -7,6 +7,6 @@ if st.button('ChatGPT') :
 if st.button('Gemini'):
     st.write(f'파일 첨부 기능을 지원하지 않음')
 if st.button('wrtn'):
-    st.button(f'SCV 형식 파일 첨부를 지원하지 않음')
+    st.write(f'SCV 형식 파일 첨부를 지원하지 않음')
 
 
